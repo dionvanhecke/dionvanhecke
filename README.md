@@ -1,4 +1,4 @@
-- 👋 Hallo ik ben Dion VH
+- 👋 Hallo ik ben Dion Van Hecke
 - Een enthousiaste developer 
 - Graduaat programmeren Arteveldehogeschool
 
