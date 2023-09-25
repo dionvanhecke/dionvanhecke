@@ -5,8 +5,6 @@
 </p>
 
 
-
-- Een enthousiaste developer 
-- Graduaat programmeren Arteveldehogeschool
-
-- Ik werk vooral in PHP,C++ en Javascript
+## **About me**
+- A person with a passion for coding 
+- Programming @ Arteveldehogeschool
