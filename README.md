@@ -8,3 +8,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - A person with a passion for coding 
 - Programming @ Arteveldehogeschool
+
+
+## **Languages**
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pgm-dionvanh&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
