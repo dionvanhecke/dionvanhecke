@@ -45,8 +45,8 @@
   <a href="https://github.com/dionvanhecke/pomplemoose">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dionvanhecke&repo=pomplemoose&hide_border=true&title_color=00ff87&icon_color=60efff&text_color=c9d1d9&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/dionvanhecke/portfolio-new">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dionvanhecke&repo=portfolio-new&hide_border=true&title_color=00ff87&icon_color=60efff&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/dionvanhecke/TaskManagement">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dionvanhecke&repo=TaskManagement&hide_border=true&title_color=00ff87&icon_color=60efff&text_color=c9d1d9&bg_color=0d1117" />
   </a>
 </div>
 
