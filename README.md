@@ -39,14 +39,14 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionvanhecke&layout=compact&hide_border=true&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<h2>🎯 Latest Projects</h2>
+<h2>🎯 Latest Public Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/dionvanhecke/project-1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dionvanhecke&repo=project-1&hide_border=true&title_color=00ff87&icon_color=60efff&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/dionvanhecke/pomplemoose">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dionvanhecke&repo=pomplemoose&hide_border=true&title_color=00ff87&icon_color=60efff&text_color=c9d1d9&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/dionvanhecke/project-2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dionvanhecke&repo=project-2&hide_border=true&title_color=00ff87&icon_color=60efff&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/dionvanhecke/portfolio-new">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dionvanhecke&repo=portfolio-new&hide_border=true&title_color=00ff87&icon_color=60efff&text_color=c9d1d9&bg_color=0d1117" />
   </a>
 </div>
 
