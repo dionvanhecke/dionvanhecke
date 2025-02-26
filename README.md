@@ -1,69 +1,79 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dion%20Van%20Hecke&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:60efff&height=200&section=header&text=Dion%20Van%20Hecke&fontSize=80&fontAlignY=35&animation=twinkling&desc=Crafting%20Digital%20Experiences&descAlignY=55" width="100%" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Building+digital+solutions+with+passion;Turning+coffee+into+code;Crafting+the+future+of+web+development;9+programming+languages+%26+counting)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1000&color=00FF87&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Tech+Enthusiast;Problem+Solver;Code+Craftsman)](https://git.io/typing-svg)
 </div>
-
-<h2>🚀 Tech Arsenal</h2>
-
-<details open>
-<summary>Languages</summary>
-<br>
 
 <div align="center">
-  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=black)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&labelColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
-![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white&labelColor=black)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dionvanhecke&theme=radical&hide_border=true&border_radius=10&card_width=500&background=0D1117&ring=00FF87&fire=60EFFF&currStreakLabel=60EFFF&sideLabels=00FF87" alt="GitHub Streak"/>
 </div>
-</details>
 
-<details open>
-<summary>Frameworks & Libraries</summary>
-<br>
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px">
+  Tech Stack
+</h2>
 
 <div align="center">
+  <details open>
+    <summary><b>Languages & Frameworks</b></summary>
+    <br/>
+    <div>
+      <img src="https://skillicons.dev/icons?i=ts,js,php,cs,cpp,rust,html,css,scss" alt="Languages" /><br/>
+      <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,nestjs,laravel" alt="Frameworks" />
+    </div>
+  </details>
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=black)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white&labelColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=black)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=black)
-
+  <details>
+    <summary><b>Tools & Platforms</b></summary>
+    <br/>
+    <div>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,vercel,vscode,figma" alt="Tools" />
+    </div>
+  </details>
 </div>
-</details>
 
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dionvanhecke&theme=tokyonight&hide_border=true&border_radius=10&card_width=500" alt="GitHub Streak"/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=dionvanhecke&theme=tokyonight&no-frame=true&column=4&row=2" alt="GitHub Trophies"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dionvanhecke&show_icons=true&count_private=true&hide_border=true&title_color=00ff87&icon_color=60efff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionvanhecke&layout=compact&hide_border=true&title_color=00ff87&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<h2>🎯 Current Focus</h2>
+<h2>🎯 Latest Projects</h2>
 
-```typescript
-class DionVanHecke {
-    private currentlyLearning: string[] = ['AWS', 'Kubernetes', 'Microservices'];
-    private interests: string[] = ['Web3', 'AI/ML', 'System Design'];
-    private funFact: string = 'I can code with my eyes closed... just kidding, but I do love dark mode!';
+<div align="center">
+  <a href="https://github.com/dionvanhecke/project-1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dionvanhecke&repo=project-1&hide_border=true&title_color=00ff87&icon_color=60efff&text_color=c9d1d9&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/dionvanhecke/project-2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dionvanhecke&repo=project-2&hide_border=true&title_color=00ff87&icon_color=60efff&text_color=c9d1d9&bg_color=0d1117" />
+  </a>
+</div>
 
-    public getCurrentProject(): string {
-        return 'Building a next-generation web application platform';
-    }
+<h2>🌟 Achievements</h2>
 
-    public getDailyKnowledge(): string {
-        return 'Learning something new every day!';
-    }
-}
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dionvanhecke&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" />
+</div>
+
+<h2>📈 Contribution Graph</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dionvanhecke&bg_color=0d1117&color=00ff87&line=60efff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<div align="center">
+  <h2>🤝 Let's Connect</h2>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff87" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff87" alt="Email"/>
+  </a>
+  <a href="https://github.com/dionvanhecke">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=00ff87" alt="Portfolio"/>
+  </a>
+  
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=dionvanhecke&color=00ff87&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:60efff&height=100&section=footer" width="100%" />
