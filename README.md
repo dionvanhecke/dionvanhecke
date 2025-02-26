@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dionvanhecke&theme=radical&hide_border=true&border_radius=10&card_width=500&background=0D1117&ring=00FF87&fire=60EFFF&currStreakLabel=60EFFF&sideLabels=00FF87" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=dionvanhecke&theme=radical&hide_border=true&border_radius=10&card_width=500&background=0D1117&ring=00FF87&fire=60EFFF&currStreakLabel=60EFFF&sideLabels=00FF87" alt="GitHub Streak"/>
 </div>
 
 <h2>
@@ -62,10 +62,10 @@
 
 <div align="center">
   <h2>🤝 Let's Connect</h2>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://be.linkedin.com/in/dion-van-hecke-798391232?trk=people_directory">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff87" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:dionvanhecke@simcogroup.be">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff87" alt="Email"/>
   </a>
   <a href="https://github.com/dionvanhecke">
