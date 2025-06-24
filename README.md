@@ -53,7 +53,7 @@
 <h2>🌟 Achievements</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dionvanhecke&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=dionvanhecke&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" />
 </div>
 
 <h2>📈 Contribution Graph</h2>
